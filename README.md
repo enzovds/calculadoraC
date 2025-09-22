@@ -65,3 +65,15 @@ Após a compilação, execute o programa gerado:
 
 ```bash
 ./minha_calculadora
+
+---
+
+## 📦 Script de Deploy (`deploy.sh`)
+
+O projeto inclui um script de shell (`deploy.sh`) para automatizar o processo de compilação e empacotamento da aplicação em uma pasta `Calculadora_Portatil`.
+
+**Funcionalidade:**
+* Compila o código-fonte.
+* Coleta todas as DLLs e recursos necessários (temas, ícones, etc.).
+
+**Nota Importante:** Devido a uma particularidade do ambiente de compilação `mingw64`, o executável gerado por este script atualmente só funciona corretamente quando executado de dentro de um terminal MSYS2. Para projetos futuros, a recomendação é usar o ambiente `UCRT64` para uma melhor portabilidade.
