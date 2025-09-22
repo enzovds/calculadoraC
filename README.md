@@ -1,6 +1,8 @@
 # Calculadora Gráfica em C com GTK4
 
-![Calculadora](https://imgur.com/cFr4NXT) Projeto de uma calculadora totalmente funcional com interface gráfica (GUI) desenvolvida em linguagem C pura e a biblioteca moderna GTK4. Este projeto foi criado como um exercício prático para aprender sobre desenvolvimento de aplicações desktop, separação de lógica e interface, e compilação com bibliotecas externas.
+![https://imgur.com/cFr4NXT](https://i.imgur.com/cFr4NXTl.png) 
+<br>
+Projeto de uma calculadora totalmente funcional com interface gráfica (GUI) desenvolvida em linguagem C pura e a biblioteca moderna GTK4. Este projeto foi criado como um exercício prático para aprender sobre desenvolvimento de aplicações desktop, separação de lógica e interface, e compilação com bibliotecas externas.
 
 ---
 
