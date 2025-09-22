@@ -63,9 +63,9 @@ Este projeto foi desenvolvido e testado no Windows utilizando o ambiente MSYS2, 
 
 Após a compilação, execute o programa gerado:
 
-` ``bash`
-`./minha_calculadora`
-` `` `  
+```bash
+./minha_calculadora
+```
 
 ---  
 
