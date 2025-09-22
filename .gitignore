@@ -1,0 +1,6 @@
+# Ignorar executáveis do Windows
+*.exe
+*.o
+
+# Ignorar pastas de build (opcional, mas bom ter)
+/output/

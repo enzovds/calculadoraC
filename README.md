@@ -48,11 +48,11 @@ Este projeto foi desenvolvido e testado no Windows utilizando o ambiente MSYS2, 
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU USUARIO DO GITHUB]/[NOME-DO-SEU-REPOSITORIO].git
+    git clone [https://github.com/](https://github.com/enzovds/calculadorac.git)
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd [NOME-DO-SEU-REPOSITORIO]
+    cd /calculadoraC
     ```
 3.  Compile o programa usando o `gcc` e o `pkg-config`:
     ```bash
